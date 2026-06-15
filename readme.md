@@ -76,4 +76,10 @@ The Power BI dashboard includes 4 pages:
 - **BI**: Power BI Desktop
 - **Tools**: VS Code, Jupyter, Git/GitHub
 
-## Project Structure
+## Business Impact
+
+• Identified high-risk customer segments through RFM analysis.
+• Achieved ROC-AUC of 0.97 and F1-score of 0.92 for churn prediction.
+• Estimated Customer Lifetime Value to prioritize retention investments.
+• Developed actionable retention strategies for Champions, Loyal, At-Risk, and Lost customers.
+• Built an interactive Power BI dashboard for executive decision-making.
