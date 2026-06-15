@@ -76,6 +76,19 @@ The Power BI dashboard includes 4 pages:
 - **BI**: Power BI Desktop
 - **Tools**: VS Code, Jupyter, Git/GitHub
 
+## Project Structure
+
+ecommerce-churn/
+
+├── notebooks/
+│   ├── 01_data_loading.ipynb       # Load and merge 9 raw tables
+│   ├── 02_eda.ipynb                # Exploratory data analysis (5 charts)
+│   ├── 03_rfm_clv.ipynb            # RFM segmentation & CLV scoring
+│   └── 04_ml_model.ipynb           # Random Forest, SMOTE, SHAP
+├── outputs/                         # 10 saved charts
+└── README.md
+
+
 ## Business Impact
 
 • Identified high-risk customer segments through RFM analysis.
